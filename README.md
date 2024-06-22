@@ -21,3 +21,9 @@ In the following tables, you can see the details of the faithfulness of local ex
 
 ![Screenshot 2024-06-22 at 14 49 10](https://github.com/amir-rahnama/faithfulness_local_tree_ensemble_explanations/assets/6009583/bb47565e-57e0-4980-bf12-97891ae4c0b1)
 
+
+
+### Pairwise Similarity 
+
+![Screenshot 2024-06-22 at 16 05 02](https://github.com/amir-rahnama/faithfulness_local_tree_ensemble_explanations/assets/6009583/84ccca07-691d-4b76-bca4-b8d92474a7a4)
+![Screenshot 2024-06-22 at 16 05 10](https://github.com/amir-rahnama/faithfulness_local_tree_ensemble_explanations/assets/6009583/3bef52cc-151d-4584-899d-7efe2f0727eb)
